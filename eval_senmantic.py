@@ -11,7 +11,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 # ==========================================
 # 1. CẤU HÌNH PATH & LIBS
 # ==========================================
-BASE_PATH = "D:/Ngôn ngữ tự nhiên/BERT4Rec-VAE-Pytorch"
+BASE_PATH = "D:/BERT4Rec-VAE-Pytorch"
 if BASE_PATH not in sys.path:
     sys.path.append(BASE_PATH)
 

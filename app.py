@@ -157,7 +157,7 @@ except ImportError:
     st.stop()
 
 # API Key Gemini
-api_key = "AIzaSyALZdaW-B2jDVrG6dHA6W1OwMw__OzT9Ho" 
+api_key = "apikey_here"  # Thay bằng API Key của bạn
 genai.configure(api_key=api_key)
 
 # ==========================================
